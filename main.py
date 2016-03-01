@@ -6,10 +6,7 @@ import time
 
 # Authenticate via OAuth
 client = pytumblr.TumblrRestClient(
-  'XYkT1UZu6zgriJrd1jj9TUkLdMFpOWbIXGgt8efXKZzGlCbvCl',
-  'CkPibQLz8kOkAKOI4wXdG4TYTAwIpLjdv41Ng5fIzdsVhzaVMc',
-  'jgS74UqvYLUf4MNoNUcOPig70sOvluHXJGUyhEtmGboQoZn4wN',
-  '9cxhZgDJasO4HdV7gbix4eR41NvtKyCIsksiYHEFKsUcc5nQ4c'
+  ''
 )
 
 
